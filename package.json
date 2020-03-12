@@ -14,5 +14,11 @@
     "type": "git",
     "url": "github.com/jtwray/iRcomponentsI"
   }
-  "dependencies":"^latest nodemon "
+,
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
 }
