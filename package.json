@@ -1,0 +1,18 @@
+{
+  "name": "componentsi",
+  "version": "1.0.0",
+  "description": "componentsI",
+  "main": "index.js",
+  "scripts": {
+  "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "jtwray",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "github.com/jtwray/iRcomponentsI"
+  }
+  "dependencies":"^latest nodemon "
+}
